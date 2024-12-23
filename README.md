@@ -65,6 +65,20 @@ All projects are listed in the [Projects](projects/) directory.
 
 ---
 
+## Featured Tweets 🐦
+
+This section highlights some interesting tweets shared by the community, related to **osol100** projects or discussions.
+
+| Tweet                | Author                 | Link                               |
+|----------------------|------------------------|------------------------------------|
+| "Amazing project by osol100!" | **@User1**         | [Tweet Link](https://twitter.com/) |
+| "Learn more about this cool resource!" | **@User2**      | [Tweet Link](https://twitter.com/) |
+| "osol100 continues to inspire with innovative ideas." | **@User3** | [Tweet Link](https://twitter.com/) |
+
+Have a tweet to feature? Submit it via a pull request or contact us!
+
+---
+
 ## Contributing 🤝
 
 We welcome contributions from everyone!  
